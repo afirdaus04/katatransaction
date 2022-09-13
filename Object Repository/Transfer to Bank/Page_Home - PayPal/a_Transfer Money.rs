@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transfer Money</name>
+   <tag></tag>
+   <elementGuidId>5fb2ae42-cd7c-4f25-8321-837bda77debd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='money-fragment']/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.css-q4r8ww.e1ndxlv80</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>621dcc69-e2ab-4d03-ad79-bbefbb8a8856</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/fundstransfer?flow=cmV0dXJuVXJsPS9tZXAvZGFzaGJvYXJkJmNhbmNlbFVybD0vbWVwL2Rhc2hib2FyZA==&amp;flowType=withdraw</value>
+      <webElementGuid>468cc775-45a3-4b21-892f-f1d658a506e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-q4r8ww e1ndxlv80</value>
+      <webElementGuid>46911e1e-6734-47fa-ac65-39f89cddb728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Money</value>
+      <webElementGuid>a6ae7f9c-773c-4600-b7db-82afd71efe23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;money-fragment&quot;)/div[1]/div[@class=&quot;css-1qji7l9 e18sizyo0&quot;]/div[@class=&quot;css-1edrbbx e14y2lnn0&quot;]/a[@class=&quot;css-q4r8ww e1ndxlv80&quot;]</value>
+      <webElementGuid>e2321828-129d-4a9a-858a-150cda279ea6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='money-fragment']/div/div/div[2]/a</value>
+      <webElementGuid>782cc467-78e4-48cf-8ce3-a774058a1bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::a[1]</value>
+      <webElementGuid>58849b50-c3c9-4d6d-8d41-0adb18a18159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='US$0.00'])[1]/following::a[1]</value>
+      <webElementGuid>c33c878c-e25a-4aba-bc7b-0fc2210497f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insights'])[1]/preceding::a[1]</value>
+      <webElementGuid>398d497d-36e5-4de8-8b31-d870d471503a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/fundstransfer?flow=cmV0dXJuVXJsPS9tZXAvZGFzaGJvYXJkJmNhbmNlbFVybD0vbWVwL2Rhc2hib2FyZA==&amp;flowType=withdraw')]</value>
+      <webElementGuid>78b24029-ce1d-468c-b48c-c9f523bf98ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div/div/div[2]/a</value>
+      <webElementGuid>80854fc5-492c-453e-bc6b-116862ef3480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/fundstransfer?flow=cmV0dXJuVXJsPS9tZXAvZGFzaGJvYXJkJmNhbmNlbFVybD0vbWVwL2Rhc2hib2FyZA==&amp;flowType=withdraw' and (text() = 'Transfer Money' or . = 'Transfer Money')]</value>
+      <webElementGuid>4bbd952b-ec07-4d53-b1a6-06041a7cb7dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

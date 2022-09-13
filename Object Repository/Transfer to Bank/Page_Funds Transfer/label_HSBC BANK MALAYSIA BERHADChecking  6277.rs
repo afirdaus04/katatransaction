@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_HSBC BANK MALAYSIA BERHADChecking  6277</name>
+   <tag></tag>
+   <elementGuidId>7f9f70cc-4d48-4bf7-8b58-68106a3bef2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vx_modal-wrapper']/div/div/div/div[2]/div[2]/div/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>028459a4-2968-474c-95b2-7620ff68ea47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>eyJhbGciOiJub25lIiwidHlwIjoiand0In0.eyJpZCI6IkJBLVdQNzNLQUNIUUc3NVcifQ.</value>
+      <webElementGuid>800cce80-91f9-4613-b9f7-a34134177544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HSBC BANK MALAYSIA BERHADChecking •••• 6277</value>
+      <webElementGuid>4bac1d02-e4aa-45f3-8c68-d45de993780d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vx_modal-wrapper&quot;)/div[1]/div[@class=&quot;vx_modal-content page-to&quot;]/div[@class=&quot;money-block-container&quot;]/div[@class=&quot;instruments-container&quot;]/div[2]/div[1]/div[@class=&quot;vx_radio&quot;]/label[1]</value>
+      <webElementGuid>47fe865b-db2f-4fda-872c-d601a4f36943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vx_modal-wrapper']/div/div/div/div[2]/div[2]/div/div/label</value>
+      <webElementGuid>740d23c2-4711-445b-afce-3f16955f1d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfers typically in 1-3 days.'])[1]/following::label[1]</value>
+      <webElementGuid>4147be40-7efa-4df7-8126-cc04600f172e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='fee'])[1]/following::label[1]</value>
+      <webElementGuid>feabd100-ee6f-4cdf-9334-7a6acd559c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/label</value>
+      <webElementGuid>79dc22b0-3a72-4bf3-8df4-fb791bcd7a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'HSBC BANK MALAYSIA BERHADChecking •••• 6277' or . = 'HSBC BANK MALAYSIA BERHADChecking •••• 6277')]</value>
+      <webElementGuid>32c77bf7-06ed-4a63-bca9-9d0eb6c1aa97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

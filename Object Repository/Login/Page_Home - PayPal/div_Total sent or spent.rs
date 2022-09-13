@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total sent or spent</name>
+   <tag></tag>
+   <elementGuidId>dbc88a9a-707d-425f-86f8-b4d70e60712c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='moneyOut']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#moneyOut > div.vx_panel-tile.tile-wrapper > div.balance-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d76bdd98-41bb-49b6-9091-33452b0ce789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d937309e-39ea-4e9f-814e-2084227d11d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>466a0958-e2cb-4ac7-bac1-aa5f73c8e7ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>balance-label</value>
+      <webElementGuid>b4297f0a-c5b8-4f2d-87b3-663183c9321f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total sent or spent</value>
+      <webElementGuid>65774b26-8bec-4813-8fe5-7f14741a50ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;moneyOut&quot;)/div[@class=&quot;vx_panel-tile tile-wrapper&quot;]/div[@class=&quot;balance-label&quot;]</value>
+      <webElementGuid>98f41b00-0210-4527-8419-8e69c0e28ff9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='moneyOut']/div/div[2]</value>
+      <webElementGuid>06ed7244-eab5-4710-a61c-79c60c8b32e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total received'])[1]/following::div[5]</value>
+      <webElementGuid>8f1e0301-bbde-486a-bd31-cc0cbeb839d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Money in'])[1]/following::div[7]</value>
+      <webElementGuid>2f1770f3-8e9f-4667-abaa-a70c4ea98640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick links'])[1]/preceding::div[4]</value>
+      <webElementGuid>73649ea1-2848-479d-96dc-edd49a50f7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='App Center'])[2]/preceding::div[5]</value>
+      <webElementGuid>166757c0-94d6-4955-9ff9-2f5b7bbe5c76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total sent or spent']/parent::*</value>
+      <webElementGuid>af43a754-e044-4b0f-85a6-e9231e2a7b79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div[3]/div/div[2]</value>
+      <webElementGuid>e39eba73-eaaf-4668-9efe-45b97217f8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total sent or spent' or . = 'Total sent or spent')]</value>
+      <webElementGuid>156ec467-d94f-41e9-b2e3-a29e9e604c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

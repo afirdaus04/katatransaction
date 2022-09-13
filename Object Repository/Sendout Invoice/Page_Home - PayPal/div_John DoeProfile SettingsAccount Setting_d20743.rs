@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_John DoeProfile SettingsAccount Setting_d20743</name>
+   <tag></tag>
+   <elementGuidId>f2d22bc3-5b79-4b24-8c3c-01505dc538fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='merchant-header-main-wrapper-internal']/div/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a115a01-6c9a-4535-b990-4279bc7312fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>header_sub_profileDropdown</value>
+      <webElementGuid>1717d046-f4bb-4e9c-bffb-2e3ae6d8adfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>John DoeProfile SettingsAccount SettingsLog out</value>
+      <webElementGuid>fb7f2e17-4e24-45a4-9c6b-112c5965074a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;merchant-header-main-wrapper-internal&quot;)/div[1]/div[1]/div[2]/div[3]/div[1]</value>
+      <webElementGuid>bcb7292d-366d-4030-8534-fcd4467cbc8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='merchant-header-main-wrapper-internal']/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>4471db7e-1e1b-4bd9-8020-0c86bfda9ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::div[3]</value>
+      <webElementGuid>0ce120ae-d6d9-4402-96ec-ab70520e6ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Developer'])[1]/following::div[4]</value>
+      <webElementGuid>cb479809-c26b-416e-b275-0ed4af6d2d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>f2c677ce-3fde-40ae-84d9-5086bcb53684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'John DoeProfile SettingsAccount SettingsLog out' or . = 'John DoeProfile SettingsAccount SettingsLog out')]</value>
+      <webElementGuid>3d8cfdb0-0533-41ce-ab88-2de084d21868</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

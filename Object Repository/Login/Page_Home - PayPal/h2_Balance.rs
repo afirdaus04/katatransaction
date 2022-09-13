@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Balance</name>
+   <tag></tag>
+   <elementGuidId>b146004f-c9fb-491b-94a0-eae3b51fb364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='money-fragment']/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.css-19r794l.ea4qcq80</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>85bbcdb8-2130-4714-9039-9cd6b5feac3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19r794l ea4qcq80</value>
+      <webElementGuid>c649c49c-fde9-4c3e-9910-e0e004b4702f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Balance</value>
+      <webElementGuid>373995a2-7e02-4edb-a25d-2b30637dcb0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;money-fragment&quot;)/div[1]/div[@class=&quot;css-1qji7l9 e18sizyo0&quot;]/div[@class=&quot;css-1nqw1ri e1pnexi0&quot;]/h2[@class=&quot;css-19r794l ea4qcq80&quot;]</value>
+      <webElementGuid>43ab19ad-78bd-4033-89ae-2763d4226a4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='money-fragment']/div/div/div/h2</value>
+      <webElementGuid>af319463-435d-4ad9-a8ef-3a4be0d07416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::h2[1]</value>
+      <webElementGuid>1163a082-ee60-4701-8422-7fd11535ae7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile Settings'])[1]/following::h2[1]</value>
+      <webElementGuid>99b94192-163a-4947-8cb6-df8d02c0d713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM 49,954.45*'])[1]/preceding::h2[1]</value>
+      <webElementGuid>9dd6772d-2653-45a0-bb3d-d84bcd6560cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Available'])[1]/preceding::h2[1]</value>
+      <webElementGuid>03f5bf12-1b09-404f-b200-71e14f5c2cc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>655c77b7-fc0e-4239-8770-1cf2a3a2a4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Balance' or . = 'Balance')]</value>
+      <webElementGuid>6b97cecd-b8da-4d3b-9f9d-913a666a7e48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
